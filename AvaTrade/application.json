@@ -1,0 +1,11 @@
+{
+  "BaseUrl": "https://www.avatrade.com/?mode=test-static-widget",
+  "BaseUrlApple": "",
+  "BaseUrlGoogle": "Google",
+  "ImplicitWaitTimeout" : "20",
+  "Browser": "chrome",
+  "HeadlessMode": "false",
+  "DeviceType": "desktop",
+  "GoogleMobileDevice": "",
+  "MobileDevice": "iPhone X"
+}

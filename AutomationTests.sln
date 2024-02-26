@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaTrade", "AvaTrade\AvaTrade.csproj", "{5A88F21E-5DF8-4F34-87B3-0750908509CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaTradeMobile", "AvaTradeMobile\AvaTradeMobile.csproj", "{9BDD5EDE-2376-40F2-8E9D-A8CDBEB2A588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A88F21E-5DF8-4F34-87B3-0750908509CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A88F21E-5DF8-4F34-87B3-0750908509CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A88F21E-5DF8-4F34-87B3-0750908509CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A88F21E-5DF8-4F34-87B3-0750908509CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BDD5EDE-2376-40F2-8E9D-A8CDBEB2A588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDD5EDE-2376-40F2-8E9D-A8CDBEB2A588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDD5EDE-2376-40F2-8E9D-A8CDBEB2A588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDD5EDE-2376-40F2-8E9D-A8CDBEB2A588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
